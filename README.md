@@ -2,7 +2,7 @@
 # 💻 Frontend Developer 
 I’m passionate about building clean, responsive, and user-friendly web experiences. Skilled in HTML, CSS, JavaScript, and exploring modern tools to bring ideas to life. Currently sharpening my frontend skills while blending creativity from my graphic design background.
 
-✨ Always learning, creating, and sharing.<br># 🌐 Connect with Me  <br><br>
+✨ Always learning, creating, and sharing.
 
 # 🌐 Connect with Me 
 
